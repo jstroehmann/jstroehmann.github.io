@@ -8,6 +8,8 @@ SITEURL = ''
 
 PATH = 'content'
 
+#THEME = '/c/Users/jstroehm/git/pelican-themes/elegant'
+
 TIMEZONE = 'US/Eastern'
 
 DEFAULT_LANG = 'en'
